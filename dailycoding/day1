@@ -1,0 +1,62 @@
+<!Doctype html>
+<html>
+  <head>
+    <title>PARAS VERMA | student at KIET GROUP OF INSTITUTION</title>
+  </head>
+   <body>
+    <h1> Paras Verma</h1>
+    <h3> Fullstack Developer</h3><hr>
+     <!-- Using Horizontal Ruler as initial part completed. -->
+     <h2>Profile Summary:</h2>
+    <br>You can contact me for:<br>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JAVA SCRIPT</li>
+        <li>C LANGUAGE</li>
+      </ul><hr>
+       <!-- part 2 of profile has been completed -->
+     <h2>Education Credentials:</h2>
+    <table>
+    <tr>
+      <th>Name of Degree</th>
+      <th>University</th>
+      <th>Major</th>
+      <th>CGPA</th>
+    </tr>
+    <tr>
+      <td>10th(2012)</td>
+      <td>UP Board</td>
+      <td>Science</td>
+      <td>75%</td>
+    </tr>
+    <tr>
+      <td>12th(2014)</td>
+      <td>UP Board</td>
+      <td>PCM</td>
+      <td>65%</td>
+    </tr>
+    <tr>
+      <td>Bachelor of Computer Application(2017)</td>
+      <td>CCS University</td>
+      <td>Computer fundamental</td>
+      <td>75%</td>
+    </tr>
+    <tr>
+      <td>Master of Computer Applications(2020)</td>
+      <td>UPTU</td>
+      <td>Computers</td>
+      <td>76%</td>
+    </tr>
+  </table><hr>
+   <!-- Education Credentials completed here -->
+   <h2> Projects:</h2>
+  <h3>WEB GURU</h3>
+  <h3> Developed online recharge website for many kind of stuff based html,css and javascript</h3>
+   <hr>
+   <!-- project section completed here -->
+  <h3> Connet me on:</h3>
+  <p> varmaparas864@gmail.com or 7417191680</p>
+  <p> my linkedin profile link is <a href="https://www.linkedin.com/in/paras-verma-41b620166/">LinkedIn</a>
+   </body>
+ </html>
