@@ -7,4 +7,6 @@ print("hello\npython")
 print("2" + "3")
 
 #String Operation
-print("paras" * 3).
+print("paras" * 3)
+
+
