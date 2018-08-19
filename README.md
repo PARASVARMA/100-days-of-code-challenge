@@ -1,2 +1,2 @@
-# 100-days-of-code-challenge
+# 100-Days-Of-Code
 # KIETMCA
